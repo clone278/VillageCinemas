@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VillageCinemas.Web", "VillageCinemas.Web\VillageCinemas.Web.csproj", "{B7202967-8D3F-48B7-8FDB-2EA2916808D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VillageCinemas.Web.Tests", "VillageCinemas.Web.Tests\VillageCinemas.Web.Tests.csproj", "{3C631F2E-6B7D-4AF8-820D-2FFE048DAC45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7202967-8D3F-48B7-8FDB-2EA2916808D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7202967-8D3F-48B7-8FDB-2EA2916808D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7202967-8D3F-48B7-8FDB-2EA2916808D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7202967-8D3F-48B7-8FDB-2EA2916808D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C631F2E-6B7D-4AF8-820D-2FFE048DAC45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C631F2E-6B7D-4AF8-820D-2FFE048DAC45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C631F2E-6B7D-4AF8-820D-2FFE048DAC45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C631F2E-6B7D-4AF8-820D-2FFE048DAC45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
